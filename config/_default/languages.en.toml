@@ -15,7 +15,7 @@ copyright = "&copy; 2024 Congo contributors"
 
 [params.author]
   name = "Hoangi19"
-  image = "img/avatar.jpg"
+  image = "img/author.jpg"
   headline = "Software Engineer"
   bio = "Made of bones and skin, coffee, ~~cigarettes~~, and 250 liters of alcohol. "
   links = [

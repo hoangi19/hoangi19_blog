@@ -1,0 +1,24 @@
+languageCode = "en-AU"
+languageName = "English (Australia)"
+languageDirection = "ltr"
+weight = 1
+
+title = "Hoangi19"
+copyright = "&copy; 2024 Congo contributors"
+
+[params]
+  isoCode = "en"
+  dateFormat = "2 January 2006"
+
+#  mainSections = ["samples"]
+  description = "Made of bones and skin, coffee, ~~cigarettes~~, and 250 liters of alcohol. "
+
+[params.author]
+  name = "Hoangi19"
+  image = "img/avatar.png"
+  headline = "Software Engineer"
+  bio = "Made of bones and skin, coffee, ~~cigarettes~~, and 250 liters of alcohol. "
+  links = [
+    { linkedin = "https://linkedin.com/in/hoangi19" },
+    { github = "https://github.com/hoangi19" },
+  ]

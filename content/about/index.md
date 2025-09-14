@@ -3,10 +3,16 @@ date = '2025-08-15T10:01:58+07:00'
 title = 'About'
 +++
 
+## Technical Skills
 
-## Education
-- University of Science - VNU — Hanoi  
-  B.S. in Computer Science and Information Science (Sep 2017 – Jul 2021)
+- Languages: Python, C / C++, C#, Java, SQL
+- Frameworks: Flask, FastAPI, Saleor, .NET
+- Cloud: AWS (Lambda, S3, API Gateway, RDS, ECR, ECS, ElastiCache, CloudFormation)
+- Developer Tools: Git, Docker, Rancher, Kubernetes, VS Code, Visual Studio, PyCharm, IntelliJ, Eclipse
+- Databases: MySQL, PostgreSQL, SQL Server, MongoDB, Redis, Milvus, Neo4j, Memgraph
+- Message Queues: Kafka, RabbitMQ
+- Search: Elasticsearch
+- CI/CD: Jenkins, GitLab Runner
 
 ## Experience
 
@@ -71,13 +77,6 @@ title = 'About'
 - Second Prize, Non-IT — Viet Nam Informatics Olympic Contest for Students (OLP), Ho Chi Minh City, 2017  
   National competition among over 100 freshman students; solved algorithm and data structure problems using languages such as C++.
 
-## Technical Skills
-
-- Languages: Python, C / C++, C#, Java, SQL
-- Frameworks: Flask, FastAPI, Saleor, .NET
-- Cloud: AWS (Lambda, S3, API Gateway, RDS, ECR, ECS, ElastiCache, CloudFormation)
-- Developer Tools: Git, Docker, Rancher, Kubernetes, VS Code, Visual Studio, PyCharm, IntelliJ, Eclipse
-- Databases: MySQL, PostgreSQL, SQL Server, MongoDB, Redis, Milvus, Neo4j, Memgraph
-- Message Queues: Kafka, RabbitMQ
-- Search: Elasticsearch
-- CI/CD: Jenkins, GitLab Runner
+## Education
+- University of Science - VNU — Hanoi  
+  B.S. in Computer Science and Information Science (Sep 2017 – Jul 2021)

@@ -46,7 +46,7 @@ title = 'About'
 
 ---
 
-### [VietRad Technology](http://www.minerva-pacs.vn/)  
+### [VietRad Technology](https://minerva-pacs.vn)  
 **Part-time Software Engineer** | Hanoi  
 *Mar 2019 – Jun 2021*  
 - Contributed to a **PACS medical imaging platform** (2D/3D rendering), deployed in hospitals like Bach Mai and Hanoi Medical University Hospital.  
